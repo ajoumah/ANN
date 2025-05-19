@@ -26,7 +26,7 @@ A simple yet powerful **C# Windows Forms application** that visualizes and train
 https://github.com/ajoumah/ANN/tree/master/media/ANN.mp4  
 <sup>⬆️ If you are viewing this on GitHub, the video is in the `media/` folder and should be downloadable or playable directly.</sup>
 
-> 🎞️ You can also embed the video (hosted externally) if uploaded to YouTube or GitHub Releases.
+
 
 ---
 
