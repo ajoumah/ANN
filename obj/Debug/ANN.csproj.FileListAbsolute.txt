@@ -1,0 +1,18 @@
+C:\Users\Ahmad\source\repos\ANN\bin\Debug\ANN.exe.config
+C:\Users\Ahmad\source\repos\ANN\bin\Debug\ANN.exe
+C:\Users\Ahmad\source\repos\ANN\bin\Debug\ANN.pdb
+C:\Users\Ahmad\source\repos\ANN\obj\Debug\ANN.Form1.resources
+C:\Users\Ahmad\source\repos\ANN\obj\Debug\ANN.Properties.Resources.resources
+C:\Users\Ahmad\source\repos\ANN\obj\Debug\ANN.csproj.GenerateResource.cache
+C:\Users\Ahmad\source\repos\ANN\obj\Debug\ANN.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\source\repos\ANN\obj\Debug\ANN.exe
+C:\Users\Ahmad\source\repos\ANN\obj\Debug\ANN.pdb
+D:\E-Book\Master\Advanced Artificial Intellegence\ANN\bin\Debug\ANN.exe.config
+D:\E-Book\Master\Advanced Artificial Intellegence\ANN\bin\Debug\ANN.exe
+D:\E-Book\Master\Advanced Artificial Intellegence\ANN\bin\Debug\ANN.pdb
+D:\E-Book\Master\Advanced Artificial Intellegence\ANN\obj\Debug\ANN.Form1.resources
+D:\E-Book\Master\Advanced Artificial Intellegence\ANN\obj\Debug\ANN.Properties.Resources.resources
+D:\E-Book\Master\Advanced Artificial Intellegence\ANN\obj\Debug\ANN.csproj.GenerateResource.cache
+D:\E-Book\Master\Advanced Artificial Intellegence\ANN\obj\Debug\ANN.csproj.CoreCompileInputs.cache
+D:\E-Book\Master\Advanced Artificial Intellegence\ANN\obj\Debug\ANN.exe
+D:\E-Book\Master\Advanced Artificial Intellegence\ANN\obj\Debug\ANN.pdb
